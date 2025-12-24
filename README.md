@@ -1,6 +1,6 @@
 # ⚙️ CPU Load Prediction & Anomaly Detection with Machine Learning
 
-This repository presents a **comprehensive machine learning pipeline for CPU load forecasting and anomaly detection**, developed within the scope of **İnnova Install Future Program – AI Data Competition (2020)**.
+This repository presents a **comprehensive machine learning pipeline for CPU load forecasting and anomaly detection**, developed within the scope of **İnnova Install Future Program – AI Data Competition (2023)**.
 
 The project focuses on **time-series based prediction of CPU utilization** for multiple devices and **detecting anomalous CPU behavior** using historical operational data. The entire workflow—from data preprocessing to modeling, evaluation, and visualization—is implemented and documented in a **fully reproducible Jupyter Notebook (`.ipynb`)**, which is included in this repository.
 
@@ -117,7 +117,7 @@ The repository is designed to be **readable, extendable, and production-oriented
 ## 📬 Contact
 
 **Furkan Karakaya**  
-Machine Learning & Computer Vision Engineer  
+AI & Computer Vision Engineer  
 📧 se.furkankarakaya@gmail.com  
 
 ---
